@@ -1,7 +1,7 @@
 # How to design a sleep tracker using WinUI Radial Gauge Control
 This repository contains sample for how to design a sleep tracker using the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
-Please refer the KB through this [link]().
+Please refer the blog through this [link]().
 
 ## Syncfuion control(s)
 
