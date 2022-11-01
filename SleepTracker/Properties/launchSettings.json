@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUISleepTracker (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUISleepTracker (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
